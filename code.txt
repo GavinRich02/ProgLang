@@ -1,1 +1,1 @@
-output("Gucci Gang");
+output("Hello World");
